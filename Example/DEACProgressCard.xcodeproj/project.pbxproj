@@ -31,7 +31,7 @@
 		410A8904BB10FCAD4D6E5244 /* Pods_DEACProgressCard_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DEACProgressCard_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		46B57568DF65E8F4EF6BD7A5 /* Pods-DEACProgressCard_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DEACProgressCard_Tests.debug.xcconfig"; path = "Target Support Files/Pods-DEACProgressCard_Tests/Pods-DEACProgressCard_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4CE7F6FB9DC34A66318713F6 /* Pods_DEACProgressCard_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DEACProgressCard_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A6CD49FFAE50D51504B9D05 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5A6CD49FFAE50D51504B9D05 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* DEACProgressCard_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DEACProgressCard_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,10 +43,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7F9C1548CE8DD6B61629CF0E /* Pods-DEACProgressCard_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DEACProgressCard_Example.release.xcconfig"; path = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example.release.xcconfig"; sourceTree = "<group>"; };
-		A3F9E06CAA2D67E22C633A9D /* DEACProgressCard.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DEACProgressCard.podspec; path = ../DEACProgressCard.podspec; sourceTree = "<group>"; };
+		A3F9E06CAA2D67E22C633A9D /* DEACProgressCard.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DEACProgressCard.podspec; path = ../DEACProgressCard.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BE207C49583566F8966B7FB5 /* Pods-DEACProgressCard_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DEACProgressCard_Example.debug.xcconfig"; path = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D5D69E0CD7908FC34D71B74E /* Pods-DEACProgressCard_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DEACProgressCard_Tests.release.xcconfig"; path = "Target Support Files/Pods-DEACProgressCard_Tests/Pods-DEACProgressCard_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		DC69541950DCA73088B7F7AB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		DC69541950DCA73088B7F7AB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +156,6 @@
 				46B57568DF65E8F4EF6BD7A5 /* Pods-DEACProgressCard_Tests.debug.xcconfig */,
 				D5D69E0CD7908FC34D71B74E /* Pods-DEACProgressCard_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
