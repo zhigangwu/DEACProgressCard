@@ -1,0 +1,6 @@
+framework module Pods_DEACProgressCard_Tests {
+  umbrella header "Pods-DEACProgressCard_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

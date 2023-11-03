@@ -1,0 +1,6 @@
+framework module DEACProgressCard {
+  umbrella header "DEACProgressCard-umbrella.h"
+
+  export *
+  module * { export * }
+}

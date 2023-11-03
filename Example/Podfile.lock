@@ -1,0 +1,16 @@
+PODS:
+  - DEACProgressCard (0.1.0)
+
+DEPENDENCIES:
+  - DEACProgressCard (from `../`)
+
+EXTERNAL SOURCES:
+  DEACProgressCard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DEACProgressCard: 6faa7e1bac1bc19a93f6caafd14fac022ed7f168
+
+PODFILE CHECKSUM: becc0b820aad9e6391cb3da6a6c11ef0ad699d61
+
+COCOAPODS: 1.14.2
