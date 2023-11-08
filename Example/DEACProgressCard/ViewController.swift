@@ -7,12 +7,20 @@
 //
 
 import UIKit
+import DEACProgressCard
 
 class ViewController: UIViewController {
+    
+    let progressCardImageView = DEACProgressCardImageView(frame: CGRect(x: 100, y: 100, width: 180, height: 180))
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        self.view.backgroundColor = .white
+        
+        self.view.addSubview(progressCardImageView)
+        progressCardImageView.cardImage = "card.jpeg"
+        progressCardImageView.totaldurationSecond = 30
+        progressCardImageView.movingBlockColor = UIColor.red
     }
 
     override func didReceiveMemoryWarning() {
