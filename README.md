@@ -9,6 +9,16 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```
+let progressCardImageView = DEACProgressCardImageView(frame: CGRect(x: 100, y: 100, width: 180, height: 180))
+
+self.view.addSubview(progressCardImageView)
+progressCardImageView.cardImage = "card.jpeg"
+progressCardImageView.totaldurationSecond = 30
+progressCardImageView.movingBlockColor = UIColor.red
+    
+```
+
 ## Requirements
 
 ## Installation
@@ -22,7 +32,7 @@ pod 'DEACProgressCard'
 
 ## Author
 
-12740181, 1402832352@qq.com
+zhigangwu, 1402832352@qq.com
 
 ## License
 
