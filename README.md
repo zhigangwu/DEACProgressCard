@@ -27,6 +27,8 @@ DEACProgressCard is available through [CocoaPods](https://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
+source 'https://github.com/zhigangwu/DEACProgressCardSpec.git'
+
 pod 'DEACProgressCard'
 ```
 
