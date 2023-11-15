@@ -34,7 +34,7 @@ pod 'DEACProgressCard'
 
 ## Author
 
-zhigangwu, 1402832352@qq.com
+Ryan, 1402832352@qq.com
 
 ## License
 

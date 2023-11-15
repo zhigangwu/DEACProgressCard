@@ -42,11 +42,11 @@
 		3203E06CFF0015BF596786AB8C19C823 /* Pods-DEACProgressCard_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DEACProgressCard_Tests-dummy.m"; sourceTree = "<group>"; };
 		3716B213CF7B7C3020DDBC037160DE3C /* Pods-DEACProgressCard_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DEACProgressCard_Example-umbrella.h"; sourceTree = "<group>"; };
 		39A7B6F18B8CC56AFF110C390BA25B1D /* DEACProgressCard.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DEACProgressCard.debug.xcconfig; sourceTree = "<group>"; };
-		4842121EA6059C3F320552E2FD419B3C /* DEACProgressCard.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DEACProgressCard.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4842121EA6059C3F320552E2FD419B3C /* DEACProgressCard.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DEACProgressCard.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4FC98C203A33C3218950BF706D18F55E /* DEACProgressCard-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DEACProgressCard-Info.plist"; sourceTree = "<group>"; };
 		53B8A1F52C24649E08BD4862D6701322 /* Pods-DEACProgressCard_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DEACProgressCard_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		545371AD34A5D4DC3576D3833B685E49 /* DEACProgressCard.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DEACProgressCard.modulemap; sourceTree = "<group>"; };
-		5E594E16EF8F9C15B6C341F3A27FF849 /* Pods_DEACProgressCard_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DEACProgressCard_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E594E16EF8F9C15B6C341F3A27FF849 /* Pods-DEACProgressCard_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DEACProgressCard_Example"; path = Pods_DEACProgressCard_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		75833DED4347469B81E1A9867F32DB94 /* DEACProgressCard-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DEACProgressCard-prefix.pch"; sourceTree = "<group>"; };
 		7BE008622727DD7DCB34F6D8C558B9D2 /* Pods-DEACProgressCard_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DEACProgressCard_Example.modulemap"; sourceTree = "<group>"; };
@@ -56,17 +56,17 @@
 		9707DC0E3DF4FB88DDA9C3EA16C624F8 /* DEACProgressCard-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DEACProgressCard-umbrella.h"; sourceTree = "<group>"; };
 		99AEB0DA20740D4D1EE61B8FCA4DE061 /* Pods-DEACProgressCard_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DEACProgressCard_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		9A0DB6D87B1FE1225D2FF7CC34D17B97 /* DEACProgressCard-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DEACProgressCard-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A81C3F70FF3962C5F6DD1CD2DF921C50 /* Pods-DEACProgressCard_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DEACProgressCard_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		AF8CD253FCAC063CB141EE36C3F6AC6B /* Pods-DEACProgressCard_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DEACProgressCard_Example-Info.plist"; sourceTree = "<group>"; };
-		B7A01C9D74353B10E3B601C178BD0C41 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B7A01C9D74353B10E3B601C178BD0C41 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		B7DE9AD80101E6A25F2107CD02BF59BC /* Pods-DEACProgressCard_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DEACProgressCard_Example-dummy.m"; sourceTree = "<group>"; };
 		B9905E60429911E65B205384F07E4BFA /* DEACProgressCardImageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DEACProgressCardImageView.swift; path = DEACProgressCard/Classes/DEACProgressCardImageView.swift; sourceTree = "<group>"; };
 		BB29077A7C6AFE2F9FD6C1F4C8A03B9D /* DEACProgressCard.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DEACProgressCard.release.xcconfig; sourceTree = "<group>"; };
 		BCCC0384DB5F12A150B04598C3D39CE8 /* Pods-DEACProgressCard_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DEACProgressCard_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C5426CBFE213EE9DB60F9BA2F1A8268F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C5426CBFE213EE9DB60F9BA2F1A8268F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		D2A710F3ACD9F25D2691D0305670047B /* Pods-DEACProgressCard_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DEACProgressCard_Example.release.xcconfig"; sourceTree = "<group>"; };
-		D7F62F175C1B29A6179075349B12CF9B /* Pods_DEACProgressCard_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DEACProgressCard_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7F62F175C1B29A6179075349B12CF9B /* Pods-DEACProgressCard_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DEACProgressCard_Tests"; path = Pods_DEACProgressCard_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCD6AF76BB053975B3BE272C49EE5E44 /* Pods-DEACProgressCard_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DEACProgressCard_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DDB9BA157D4C4BF101F2BEC6B1906001 /* DEACProgressCard */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DEACProgressCard; path = DEACProgressCard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBE2101DF1636B561E5127DE484B1E8C /* Pods-DEACProgressCard_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DEACProgressCard_Tests-Info.plist"; sourceTree = "<group>"; };
@@ -217,8 +217,8 @@
 			isa = PBXGroup;
 			children = (
 				DDB9BA157D4C4BF101F2BEC6B1906001 /* DEACProgressCard */,
-				5E594E16EF8F9C15B6C341F3A27FF849 /* Pods_DEACProgressCard_Example.framework */,
-				D7F62F175C1B29A6179075349B12CF9B /* Pods_DEACProgressCard_Tests.framework */,
+				5E594E16EF8F9C15B6C341F3A27FF849 /* Pods-DEACProgressCard_Example */,
+				D7F62F175C1B29A6179075349B12CF9B /* Pods-DEACProgressCard_Tests */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -287,7 +287,7 @@
 			);
 			name = "Pods-DEACProgressCard_Example";
 			productName = Pods_DEACProgressCard_Example;
-			productReference = 5E594E16EF8F9C15B6C341F3A27FF849 /* Pods_DEACProgressCard_Example.framework */;
+			productReference = 5E594E16EF8F9C15B6C341F3A27FF849 /* Pods-DEACProgressCard_Example */;
 			productType = "com.apple.product-type.framework";
 		};
 		E866EF865EC57775E145CF138954507A /* Pods-DEACProgressCard_Tests */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-DEACProgressCard_Tests";
 			productName = Pods_DEACProgressCard_Tests;
-			productReference = D7F62F175C1B29A6179075349B12CF9B /* Pods_DEACProgressCard_Tests.framework */;
+			productReference = D7F62F175C1B29A6179075349B12CF9B /* Pods-DEACProgressCard_Tests */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -406,43 +406,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		22F364A61ED2BBE82EAA2798E802EB20 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8E8B87613EAAC65BB26C8C03CE5F1EFC /* Pods-DEACProgressCard_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		3C3AA929A55D58D270745C617B74CE27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB29077A7C6AFE2F9FD6C1F4C8A03B9D /* DEACProgressCard.release.xcconfig */;
@@ -472,44 +435,6 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		5DA3E2E14E4FF92323C6245BCE055866 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D2A710F3ACD9F25D2691D0305670047B /* Pods-DEACProgressCard_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -552,7 +477,83 @@
 			};
 			name = Debug;
 		};
-		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
+		877D051F2A6A2CAECEAD1A329ABA276A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1D00D21528F5CC73CCB5B6F392686375 /* Pods-DEACProgressCard_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DEACProgressCard_Tests/Pods-DEACProgressCard_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DEACProgressCard_Tests/Pods-DEACProgressCard_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		89C8FD0588518D8984A9EFF4C0C27DE5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D2A710F3ACD9F25D2691D0305670047B /* Pods-DEACProgressCard_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		903A0004D3E6651EFD5D2E16214D101B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -602,7 +603,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -614,44 +615,7 @@
 			};
 			name = Release;
 		};
-		A4F1541A649B92A36C4A0377FCBDAD16 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 53B8A1F52C24649E08BD4862D6701322 /* Pods-DEACProgressCard_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DEACProgressCard_Tests/Pods-DEACProgressCard_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DEACProgressCard_Tests/Pods-DEACProgressCard_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		D299434AB35E7FD6F7921C8EF24742FF /* Debug */ = {
+		B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -704,7 +668,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -717,9 +681,9 @@
 			};
 			name = Debug;
 		};
-		ECE77EF1BE7E634F0022424975316494 /* Release */ = {
+		C269DA9B616698860D792E9C994560E4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1D00D21528F5CC73CCB5B6F392686375 /* Pods-DEACProgressCard_Tests.release.xcconfig */;
+			baseConfigurationReference = 53B8A1F52C24649E08BD4862D6701322 /* Pods-DEACProgressCard_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -749,11 +713,47 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
+		};
+		E9417DE6717EBE6A99B89A89806BCF04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E8B87613EAAC65BB26C8C03CE5F1EFC /* Pods-DEACProgressCard_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DEACProgressCard_Example/Pods-DEACProgressCard_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -761,8 +761,8 @@
 		33E08295E916E3BBEC779490E0EAC2E5 /* Build configuration list for PBXNativeTarget "Pods-DEACProgressCard_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				22F364A61ED2BBE82EAA2798E802EB20 /* Debug */,
-				5DA3E2E14E4FF92323C6245BCE055866 /* Release */,
+				E9417DE6717EBE6A99B89A89806BCF04 /* Debug */,
+				89C8FD0588518D8984A9EFF4C0C27DE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -770,8 +770,8 @@
 		3C8BD204D25C3F6934D1EB7270493F70 /* Build configuration list for PBXNativeTarget "Pods-DEACProgressCard_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A4F1541A649B92A36C4A0377FCBDAD16 /* Debug */,
-				ECE77EF1BE7E634F0022424975316494 /* Release */,
+				C269DA9B616698860D792E9C994560E4 /* Debug */,
+				877D051F2A6A2CAECEAD1A329ABA276A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -779,8 +779,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
-				7EE7A78859F657F6BEFC651185B43192 /* Release */,
+				B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */,
+				903A0004D3E6651EFD5D2E16214D101B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
