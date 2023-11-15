@@ -11,7 +11,7 @@ import DEACProgressCard
 
 class ViewController: UIViewController {
     
-    let progressCardImageView = DEACProgressCardImageView(frame: CGRect(x: 100, y: 100, width: 180, height: 180))
+    let progressCardImageView = DEACProgressCardImageView(frame: CGRect(x: 100, y: 100, width: 80, height: 80))
 
     override func viewDidLoad() {
         super.viewDidLoad()
