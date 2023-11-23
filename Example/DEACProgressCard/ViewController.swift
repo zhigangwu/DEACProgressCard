@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         self.view.addSubview(progressCardImageView)
         progressCardImageView.cardImage = "card.jpeg"
         progressCardImageView.totaldurationSecond = 30
-        progressCardImageView.movingBlockColor = UIColor.red
+//        progressCardImageView.movingBlockColor = UIColor.red
     }
 
     override func didReceiveMemoryWarning() {

@@ -1,5 +1,5 @@
 PODS:
-  - DEACProgressCard (1.0.0)
+  - DEACProgressCard (1.0.1)
 
 DEPENDENCIES:
   - DEACProgressCard (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DEACProgressCard: 427162f02f9c7537a1f9425af7c078d85beeda0a
+  DEACProgressCard: 636e873f7a863ce39a05eee8f31ff8f3bf767a7c
 
 PODFILE CHECKSUM: d37159035f8ef38fc7b4eb499e70b57a5477e1d1
 
